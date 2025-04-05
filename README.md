@@ -32,8 +32,7 @@ A full-stack Movie Web Application built with React.js, Node.js, Express.js, and
 
 ## 🌐 Live Demo
 
-👉 The website is live at: [https://your-live-site-link.com](https://your-live-site-link.com)
-
+👉 The website is live at: https://netflix-clone-gmt5.onrender.com
 ---
 
 ## 📦 Installation
